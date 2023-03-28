@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="img">
+    <file>images/btn.png</file>
+    <file>images/Autaza.png</file>
+  </qresource>
+</RCC>
